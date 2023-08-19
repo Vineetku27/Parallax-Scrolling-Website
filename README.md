@@ -1,2 +1,2 @@
 # Parallax-Scrolling-Website
-Parallax Scrolling using Html,Css,Javascript
+https://vineetku27.github.io/Parallax-Scrolling-Website/
